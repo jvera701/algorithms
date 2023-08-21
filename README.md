@@ -11,3 +11,5 @@ These are my solutions to Leetcode problems. They are in Javascript and Python, 
 Some of these solutions were made in group with make it real (in spanish). Check the channel here:
 
 https://www.youtube.com/c/MakeitrealCamp1
+
+Also, SQL solutions are done on MySQL.
